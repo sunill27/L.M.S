@@ -54,9 +54,6 @@ const SingleBook = () => {
                   Price: {book?.bookPrice}
                 </p>
                 <p className="text-black dark:text-neutral-800">
-                  Price: {book?.bookPrice}
-                </p>
-                <p className="text-black dark:text-neutral-800">
                   Author: {book?.authorName}
                 </p>
                 <p className="text-black dark:text-neutral-800">
