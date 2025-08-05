@@ -201,7 +201,7 @@ const AddBook = () => {
             </div>
 
             <div>
-              <button className="hover:shadow-form w-full rounded-md bg-[#6A64F1] py-3 px-8 text-center text-base font-semibold text-white outline-none">
+              <button className="hover:shadow-form w-full rounded-md bg-[#6A64F1] hover:bg-[#564ee3] py-3 px-8 text-center text-base font-semibold text-white outline-none">
                 Add Book
               </button>
             </div>
